@@ -1,5 +1,5 @@
 {
-  "name": "sdl-hello-vue",
+  "name": "@sdl-web/sdl-hello-vue",
   "description": "An Advanced Vue.js project w/custom elements",
   "version": "1.0.1",
   "license": "MIT",
